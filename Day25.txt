@@ -1,0 +1,7 @@
+Javascript:
+topics we learned
+Eventhandler, functions, Targetting Elements, Taking values, Print Statements, Customization elements(Properties), Operators, Variables, invocation of function, scope of variables.
+3 tpes of Variables
+1.var 2.let 3.const
+control Statement:
+1.conditional statement: eg-if else
